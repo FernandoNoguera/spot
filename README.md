@@ -11,7 +11,7 @@ Esta es una aplicación es una test de ingreso para SPOT.
 [documentación Swagger UI ](https://api.spot.maelstrom-digital.cl/docs)
 [Documentacion ReDoc](https://api.spot.maelstrom-digital.cl/redoc)
 
-##Requisitos
+## Requisitos
 - Python 3.7 o superior
 - pip
 - [Opcional] Docker 
