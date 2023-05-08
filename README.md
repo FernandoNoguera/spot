@@ -6,10 +6,10 @@ Esta es una aplicación es una test de ingreso para SPOT.
 
 ## Deploment y documentación del API
 
-[Deployment](https://api.spot.maelstrom-digital.cl/)
-[Postman documentation](https://documenter.getpostman.com/view/14482878/2s93eYWY8g)
-[documentación Swagger UI ](https://api.spot.maelstrom-digital.cl/docs)
-[Documentacion ReDoc](https://api.spot.maelstrom-digital.cl/redoc)
+- [Deployment](https://api.spot.maelstrom-digital.cl/)
+- [Postman documentation](https://documenter.getpostman.com/view/14482878/2s93eYWY8g)
+- [documentación Swagger UI ](https://api.spot.maelstrom-digital.cl/docs)
+- [Documentacion ReDoc](https://api.spot.maelstrom-digital.cl/redoc)
 
 ## Requisitos
 - Python 3.7 o superior
