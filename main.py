@@ -58,7 +58,7 @@ async def connect():
 
 
 # Configuración de la aplicación
-app = FastAPI(ort=8003)
+app = FastAPI(port=8003)
 
 @app.on_event("startup")
 async def startup():
