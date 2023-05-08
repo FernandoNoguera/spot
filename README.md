@@ -40,6 +40,8 @@ Instala las dependencias:
 pip install -r requirements.txt
 ``` 
 
+Agregar .env.dev con las credenciales de la aplicación como se muestra en el archivo .env.dev.sample
+
 ## Uso
 
 Activa el entorno virtual:
