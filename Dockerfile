@@ -14,10 +14,10 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Establece la variable de entorno
-ENV PORT=80
+ENV PORT=8004
 
 # Expone el puerto
-EXPOSE 8003
+EXPOSE 8004
 
 # Ejecuta la aplicación
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8003"]
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8004"]

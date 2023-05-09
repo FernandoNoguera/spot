@@ -55,7 +55,7 @@ Inicia el servidor de desarrollo de FastAPI:
 uvicorn app.main:app --reload
 ``` 
 
-Abre un navegador web y visita [/docs](http://localhost:8000/docs) para acceder a la documentación de la API.
+Abre un navegador web y visita [/docs](http://localhost:8004/docs) para acceder a la documentación de la API.
 
 Para detener el servidor, presiona Ctrl + C.
 
@@ -72,7 +72,7 @@ Inicia el contenedor:
 ``` 
 docker run -d --name my-fastapi-container -p 8003:80 my-fastapi-app
 ``` 
-Abre un navegador web y visita [/docs](http://localhost:8000/docs) para acceder a la documentación de la API.
+Abre un navegador web y visita [/docs](http://localhost:8004/docs) para acceder a la documentación de la API.
 Para detener el contenedor, presiona Ctrl + C y luego ejecuta:
 
 ``` 
